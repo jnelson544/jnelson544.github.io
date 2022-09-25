@@ -1,7 +1,7 @@
 table,
 th,
 td {
-    background-color: #fe11ad;
+    background-color: #e403c4;
     border: 2px solid black;
     border-collapse: collapse;
     color: black;
@@ -27,15 +27,15 @@ table a {
 }
 
 header {
-    color: #0000d1;
+    color: #03b1dd;
     font-family: sans-serif;
     font-style: italic;
     font-size: 50px;
-    text-align: center;
+    text-align: left;
     font-weight: bolder;
     padding-top: 0em;
-    padding-left: 0em;
-    width: 700px;
+    padding-left: 0.2em;
+    width: 750px;
     height: 75px;
     box-sizing: border-box;
     box-align: center;
@@ -64,7 +64,7 @@ body {
 }
 
 ul {
-    color: blue;
+    color: #03b1dd;
     list-style-type: circle;
     font-family: sans-serif;
     font-style: italic;
