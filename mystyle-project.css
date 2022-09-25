@@ -1,0 +1,92 @@
+table,
+th,
+td {
+    background-color: #ff6006;
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    width: 700 px;
+    height: 60px;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    margin-right: 5em;
+    margin-left: 5em;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+table a {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+header {
+    color: #90f000;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 45px;
+    text-align: left;
+    font-weight: bolder;
+    padding-top: .2em;
+    padding-left: .5em;
+    width: 1050px;
+    height: 75px;
+    box-sizing: border-box;
+    box-align: center;
+    border: 25px black;
+    border-radius: .5em;
+    background-color: black;
+    opacity: 0.7;
+    margin-bottom: 0em;
+    margin-top: -.5em;
+    margin-right: 5em;
+    margin-left: .75em;
+}
+
+body {
+    background-image: url(project.jpg);
+    position: ;
+    background-position-x: center;
+    background-position-y: 3px;
+    background-repeat: no-repeat;
+    background-size: 1150px;
+    margin-bottom: 0em;
+    margin-top: 0em;
+    margin-right: 0em;
+    margin-left: 6em;
+}
+
+ul {
+    color: #90f000;
+    list-style-type: circle;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: left;
+    padding-top: 0em;
+    padding-left: 2em;
+    width: 850px;
+    height: 450px;
+    box-sizing: border-box;
+    border: 25px black;
+    border-radius: .5em;
+    background-color: black;
+    opacity: 0.7;
+    margin-bottom: 0em;
+    margin-top: .5em;
+    margin-right: 3em;
+    margin-left: 4em;
+}
+
+ul a {
+    text-decoration: none;
+    color: #f00022;
+}
